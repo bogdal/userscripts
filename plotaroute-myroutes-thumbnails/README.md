@@ -4,4 +4,4 @@ It shows thumbnails directly on my routes page.
 
 Preview:
 
-![alt text](https://github.com/bogdal/userscripts/blob/master/plotaroute-myroutes-thumbnails/screenshot.png "Thumbnails")
+![Thumbnails](https://github.com/bogdal/userscripts/raw/master/plotaroute-myroutes-thumbnails/screenshot.png "Thumbnails")

@@ -4,4 +4,4 @@ It allows managing bookmarks directly on my routes page.
 
 Preview:
 
-![alt text](https://github.com/bogdal/userscripts/blob/master/plotaroute-myroutes-bookmarks/screenshot.gif "Bookmarks manager")
+![Bookmarks manager](https://github.com/bogdal/userscripts/raw/master/plotaroute-myroutes-bookmarks/screenshot.gif "Bookmarks manager")
